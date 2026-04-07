@@ -24,7 +24,11 @@ End-to-end UI test automation framework using Playwright and Pytest.
 - GitHub Actions CI integration  
 - Real-world debugging of flaky tests and UI issues  
 
-👉 https://github.com/Krown/Playwright-automation-project  
+👉 (https://github.com/Krown/api-ui-integration)
+👉 (https://github.com/Krown/data-driven-ui-automation-playwright)
+👉 (https://github.com/Krown/ui-automation-playwright) 
+👉 (https://github.com/Krown/Karldauphin.com) 
+
 
 ---
 

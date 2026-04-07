@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Karl Dauphin
 
-SDET | Playwright + Python | CI/CD | DevOps-Focused Automation Engineer  
+SDET | Playwright + Python | CI/CD | Automation → DevOps Engineer  
 
 Building scalable test automation frameworks and transitioning into DevOps through CI/CD, containerization, and infrastructure-driven workflows.
+
+🚀 Focus: Building automation systems that integrate seamlessly into CI/CD and cloud-native workflows.
 
 ---
 
@@ -16,19 +18,25 @@ I’m currently expanding into **DevOps and Platform Engineering**, focusing on 
 
 ## 🚀 Things I've Built
 
-### 🔹 Playwright Automation Framework
-End-to-end UI test automation framework using Playwright and Pytest.
+### 🔹 Automation Platform (Playwright + CI/CD)
+End-to-end UI and API test automation frameworks built with Playwright and Pytest.
 
 - Page Object Model (POM) architecture  
 - Cross-browser testing (Chromium, Firefox, WebKit)  
 - GitHub Actions CI integration  
+- Data-driven and API + UI validation strategies  
 - Real-world debugging of flaky tests and UI issues  
 
-👉 (https://github.com/Krown/api-ui-integration)
-👉 (https://github.com/Krown/data-driven-ui-automation-playwright)
-👉 (https://github.com/Krown/ui-automation-playwright) 
-👉 (https://github.com/Krown/Karldauphin.com) 
+#### 🔗 Repositories
 
+- [api-ui-integration](https://github.com/Krown/api-ui-integration)  
+  → API + UI integration testing framework validating backend + frontend workflows  
+
+- [data-driven-ui-automation-playwright](https://github.com/Krown/data-driven-ui-automation-playwright)  
+  → Data-driven UI automation framework using externalized test data  
+
+- [ui-automation-playwright](https://github.com/Krown/ui-automation-playwright)  
+  → Core UI automation framework with cross-browser support  
 
 ---
 
@@ -52,6 +60,15 @@ Standardized development environment for automation workflows.
 
 ---
 
+## 🧩 Engineering Approach
+
+- Build once, run anywhere (Dev Containers + CI)  
+- Treat test automation as a software system, not scripts  
+- Focus on reproducibility, reliability, and scalability  
+- Debugging-first mindset for real-world failures  
+
+---
+
 ## ⚙️ Tech Stack
 
 **Automation & Testing**  
@@ -71,7 +88,7 @@ Git · Linux · Postman
 
 ---
 
-## 🔄 CI/CD in Action
+## 🔄 CI/CD Pipeline Integration
 
 - Automated test execution using GitHub Actions  
 - Clean, reproducible test runs (no local dependency)  

@@ -51,7 +51,7 @@ Personal portfolio showcasing projects, certifications, and technical documentat
 
 ---
 
-### 🔹 Dev Container Automation Environment (In Progress)
+### 🔹 Dev Container Automation Environment
 Standardized development environment for automation workflows.
 
 - Reproducible environments across machines  
